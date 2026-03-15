@@ -8,4 +8,10 @@ body {
 
 .Carnitas {
     background-color: lightpink;
+    width: 130px;
+}
+
+.Ingredients {
+    background-color: lightgoldenrodyellow;
+    width: 200px;
 }
